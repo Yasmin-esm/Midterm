@@ -18,6 +18,12 @@ box{
   background-color: lightgray;
   margin: 0;
   padding: 0;
+  border: solid 2px;
+  font-family: Georgia;
+  color: black;
+  font-size: 47px;
+
+
 }
 
 
